@@ -1,0 +1,20 @@
+1 {
+2 “名称” ：“OfficeAdmin” ，     
+4 “版本” ：“1.0.0” ，     
+5 “描述” ：“” ，     
+6个“脚本” ：{     
+7 "build" : "echo \"No build specified\" && exit 1" ,         
+8 "test" : "echo \"No test specified\" && exit 1" ,         
+9 “开始” ：“节点索引.js”         
+10 } ,    
+11 “存储库” ：{     
+12 “类型” ：“git” ，         
+13 “网址” ：“git+https://github.com/dawnmaner/OfficeAdmin.git”         
+14 } ,    
+15 “作者” ：“” ，     
+16 “许可证” ：“ISC” ，     
+17个“错误” ：{     
+18 “网址” ：“https://github.com/dawnmaner/OfficeAdmin/issues”         
+19 } ,    
+20 “主页” ：“https://github.com/dawnmaner/OfficeAdmin#readme”     
+21 }
